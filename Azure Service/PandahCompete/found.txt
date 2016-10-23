@@ -1,0 +1,323 @@
+.vs\config\applicationhost.config:163:            <site name="WebRole1" id="2">
+.vs\config\applicationhost.config:165:                    <virtualDirectory path="/" physicalPath="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1" />
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPlugin.log:17:DiagnosticsPlugin.exe Information: 0 : [10/20/2016 8:13:48 AM] Emulator config file set to c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPlugin.log:19:DiagnosticsPlugin.exe Information: 0 : [10/20/2016 8:13:48 AM] Loading config file: c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPlugin.log:20:DiagnosticsPlugin.exe Information: 0 : [10/20/2016 8:13:48 AM] Config file to read: c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPlugin.log:22:DiagnosticsPlugin.exe Information: 0 : [10/20/2016 8:13:48 AM] Emulator config file set to c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPluginLauncher.log:1:DiagnosticsPluginLauncher.exe Information: 0 : [10/20/2016 8:13:47 AM] Emulator config file set to c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPluginLauncher.log:3:DiagnosticsPluginLauncher.exe Information: 0 : [10/20/2016 8:13:47 AM] Loading config file: c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPluginLauncher.log:4:DiagnosticsPluginLauncher.exe Information: 0 : [10/20/2016 8:13:47 AM] Config file to read: c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\plugins\Diagnostics\Logs\DiagnosticsPluginLauncher.log:6:DiagnosticsPluginLauncher.exe Information: 0 : [10/20/2016 8:13:47 AM] Emulator config file set to c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1\approot\diagnostics.wadcfgx
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:2:<RoleModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WebRole1" version="2.9.7499.7" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceDefinition">
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:14:      <NetFxEntryPoint assemblyName="WebRole1.dll" targetFrameworkVersion="v4.0" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:20:    <Property name="RoleName" value="WebRole1" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:21:    <Property name="ProjectName" value="WebRole1" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:27:    <Property name="OutputDir" value="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:28:    <Property name="EntryPoint" value="WebRole1.dll" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:29:    <Property name="SourceDir" value="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:30:    <Property name="SitePhysicalPath" value="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\" />
+PandahCompete\csx\Debug\roles\WebRole1\RoleModel.xml:34:    <Site name="Web" physicalDirectory="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\">
+PandahCompete\csx\Debug\roles\WebRole1\__entrypoint.txt:1:bin\WebRole1.dllPandahCompete\csx\Debug\ServiceDefinition.csdef:3:  <WebRole name="WebRole1">
+PandahCompete\csx\Debug\ServiceDefinition.rd:6:        <inPort name="WebRole1:PandahCompeteEndpoint" protocol="http">
+PandahCompete\csx\Debug\ServiceDefinition.rd:8:            <lBChannelMoniker name="/PandahCompete/PandahCompeteGroup/LB:WebRole1:PandahCompeteEndpoint" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:13:        <aCS name="WebRole1:AzureStorageConnectionString" defaultValue="">
+PandahCompete\csx\Debug\ServiceDefinition.rd:15:            <mapMoniker name="/PandahCompete/PandahCompeteGroup/MapWebRole1:AzureStorageConnectionString" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:18:        <aCS name="WebRole1:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" defaultValue="">
+PandahCompete\csx\Debug\ServiceDefinition.rd:20:            <mapMoniker name="/PandahCompete/PandahCompeteGroup/MapWebRole1:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:23:        <aCS name="WebRole1Instances" defaultValue="[1,1,1]">
+PandahCompete\csx\Debug\ServiceDefinition.rd:25:            <mapMoniker name="/PandahCompete/PandahCompeteGroup/MapWebRole1Instances" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:30:        <lBChannel name="LB:WebRole1:PandahCompeteEndpoint">
+PandahCompete\csx\Debug\ServiceDefinition.rd:32:            <inPortMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1/PandahCompeteEndpoint" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:37:        <map name="MapWebRole1:AzureStorageConnectionString" kind="Identity">
+PandahCompete\csx\Debug\ServiceDefinition.rd:39:            <aCSMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1/AzureStorageConnectionString" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:42:        <map name="MapWebRole1:Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" kind="Identity">
+PandahCompete\csx\Debug\ServiceDefinition.rd:44:            <aCSMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1/Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:47:        <map name="MapWebRole1Instances" kind="Identity">
+PandahCompete\csx\Debug\ServiceDefinition.rd:49:            <sCSPolicyIDMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1Instances" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:55:          <role name="WebRole1" generation="1" functional="0" release="0" software="c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\csx\Debug\roles\WebRole1" entryPoint="base\x64\WaHostBootstrapper.exe" parameters="base\x64\WaIISHost.exe " memIndex="-1" hostingEnvironment="frontendadmin" hostingEnvironmentVersion="2">
+PandahCompete\csx\Debug\ServiceDefinition.rd:62:              <aCS name="__ModelData" defaultValue="&lt;m role=&quot;WebRole1&quot; xmlns=&quot;urn:azure:m:v1&quot;&gt;&lt;r name=&quot;WebRole1&quot;&gt;&lt;e name=&quot;PandahCompeteEndpoint&quot; /&gt;&lt;/r&gt;&lt;/m&gt;" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:70:            <sCSPolicyIDMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1Instances" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:71:            <sCSPolicyUpdateDomainMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1UpgradeDomains" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:72:            <sCSPolicyFaultDomainMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1FaultDomains" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:77:        <sCSPolicyUpdateDomain name="WebRole1UpgradeDomains" defaultPolicy="[5,5,5]" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:78:        <sCSPolicyFaultDomain name="WebRole1FaultDomains" defaultPolicy="[2,2,2]" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:79:        <sCSPolicyID name="WebRole1Instances" defaultPolicy="[1,1,1]" />
+PandahCompete\csx\Debug\ServiceDefinition.rd:86:        <interfaceReference Id="f5751f4b-20f2-4c8c-8793-b8d74cbbd666" ref="Microsoft.RedDog.Contract\Interface\WebRole1:PandahCompeteEndpoint@ServiceDefinition">
+PandahCompete\csx\Debug\ServiceDefinition.rd:88:            <inPortMoniker name="/PandahCompete/PandahCompeteGroup/WebRole1:PandahCompeteEndpoint" />
+PandahCompete\csx\Debug\ServiceDefinition.rdsc:4:    <interface name="WebRole1:PandahCompeteEndpoint" url="http://*:80" />
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:3:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:4:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:5:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:6:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\de\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:7:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:8:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:9:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:10:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\es\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:11:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:12:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:13:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:14:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\fr\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:15:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:16:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:17:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:18:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\it\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:19:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:20:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:21:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:22:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ja\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:23:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:24:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:25:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:26:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ko\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:27:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:28:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:29:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:30:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:31:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:32:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.Edm.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:33:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.OData.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:34:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.OData.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:35:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:36:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Data.Services.Client.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:37:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:38:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:39:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.ServiceRuntime.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:40:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:41:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:42:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:43:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\MonAgentListener.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:44:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Newtonsoft.Json.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:45:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Newtonsoft.Json.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:46:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\csc.exe
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:47:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:48:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:49:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:50:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:51:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:52:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:53:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:54:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:55:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\vbc.exe
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:56:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:57:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:58:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:59:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:60:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:61:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\ru\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:62:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Swashbuckle.Core.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:63:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.IdentityModel.Tokens.Jwt.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:64:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.IdentityModel.Tokens.Jwt.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:65:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:66:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Net.Http.Formatting.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:67:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Spatial.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:68:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Spatial.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:69:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Web.Http.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:70:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:71:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Web.Http.WebHost.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:72:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\System.Web.Http.xml
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:73:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\WebActivatorEx.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:74:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\WebRole1.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:75:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\WebRole1.dll.config
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:76:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\WebRole1.pdb
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:77:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:78:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:79:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:80:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:81:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:82:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:83:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:84:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:85:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+PandahCompete\obj\Debug\PandahCompete.ccproj.FileListAbsolute.txt:86:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+PandahCompete\PandahCompete.ccproj:43:    <DiagnosticsConfiguration Include="WebRole1Content\diagnostics.wadcfgx" />
+PandahCompete.Controller.Tests\PandahCompete.Controller.Tests.csproj:55:    <ProjectReference Include="..\WebRole1\PandahCompeteWebRole.csproj">
+PandahCompete.sln:8:Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandahCompeteWebRole", "WebRole1\PandahCompeteWebRole.csproj", "{69FE8B26-3774-409C-99F0-639A036EECA3}"
+WebRole1\App_Start\SwaggerConfig.cs:8:using WebRole1;
+WebRole1\App_Start\SwaggerConfig.cs:12:namespace WebRole1
+WebRole1\App_Start\SwaggerConfig.cs:39:                        c.SingleApiVersion("v1", "WebRole1");
+WebRole1\App_Start\WebApiConfig.cs:6:namespace WebRole1
+WebRole1\Controllers\UserController.cs:9:using WebRole1.Models;
+WebRole1\Controllers\UserController.cs:10:using WebRole1.TableOperations;
+WebRole1\Controllers\UserController.cs:12:namespace WebRole1.Controllers
+WebRole1\Controllers\ValuesController.cs:9:namespace WebRole1.Controllers
+WebRole1\Global.asax:1:﻿<%@ Application Codebehind="Global.asax.cs" Inherits="WebRole1.WebApiApplication" Language="C#" %>
+WebRole1\Global.asax.cs:8:namespace WebRole1
+WebRole1\Models\User.cs:7:namespace WebRole1.Models
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:1:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\csc.exe
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:2:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:3:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:4:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:5:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:6:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:7:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:8:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:9:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:10:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\vbc.exe
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:11:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\VBCSCompiler.exe
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:12:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:13:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\PandahCompeteWebRole.dll.config
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:14:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\PandahCompeteWebRole.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:15:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\PandahCompeteWebRole.pdb
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:16:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:17:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:18:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Edm.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:19:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.OData.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:20:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Services.Client.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:21:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:22:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:23:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:24:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:25:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Newtonsoft.Json.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:26:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Swashbuckle.Core.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:27:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.IdentityModel.Tokens.Jwt.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:28:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Net.Http.Formatting.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:29:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Spatial.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:30:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:31:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.WebHost.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:32:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\WebActivatorEx.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:33:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\MonAgentListener.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:34:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:35:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:36:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Edm.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:37:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.OData.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:38:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Services.Client.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:39:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:40:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:41:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:42:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.IdentityModel.Tokens.Jwt.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:43:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Spatial.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:44:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Newtonsoft.Json.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:45:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Net.Http.Formatting.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:46:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:47:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.WebHost.xml
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:48:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:49:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:50:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:51:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:52:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:53:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:54:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:55:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:56:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:57:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:58:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:59:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:60:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:61:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:62:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:63:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:64:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:65:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:66:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:67:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:68:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:69:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:70:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:71:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:72:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:73:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:74:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:75:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:76:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:77:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:78:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:79:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:80:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:81:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:82:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:83:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:84:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\PandahCompeteWebRole.csprojResolveAssemblyReference.cache
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:85:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\PandahCompeteWebRole.dll
+WebRole1\obj\Debug\PandahCompeteWebRole.csproj.FileListAbsolute.txt:86:C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\PandahCompeteWebRole.pdb
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:1:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\csc.exe
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:2:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:3:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:4:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:5:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:6:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.CSharp.Core.targets
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:7:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:8:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\System.Collections.Immutable.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:9:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\System.Reflection.Metadata.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:10:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\vbc.exe
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:11:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\VBCSCompiler.exe
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:12:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\roslyn\VBCSCompiler.exe.config
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:13:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\WebRole1.dll.config
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:14:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\WebRole1.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:15:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\WebRole1.pdb
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:16:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Azure.KeyVault.Core.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:17:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:18:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Edm.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:19:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.OData.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:20:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Services.Client.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:21:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Web.Infrastructure.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:22:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:23:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:24:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Newtonsoft.Json.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:25:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Swashbuckle.Core.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:26:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.IdentityModel.Tokens.Jwt.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:27:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Net.Http.Formatting.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:28:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Spatial.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:29:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:30:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.WebHost.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:31:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\WebActivatorEx.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:32:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\MonAgentListener.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:33:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Azure.KeyVault.Core.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:34:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:35:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Edm.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:36:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.OData.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:37:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.Data.Services.Client.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:38:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.pdb
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:39:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Storage.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:40:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.IdentityModel.Tokens.Jwt.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:41:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Spatial.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:42:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Newtonsoft.Json.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:43:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Net.Http.Formatting.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:44:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:45:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\System.Web.Http.WebHost.xml
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:46:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:47:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:48:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:49:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:50:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:51:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:52:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:53:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:54:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:55:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:56:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:57:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:58:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:59:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:60:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:61:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:62:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:63:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:64:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:65:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:66:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:67:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:68:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:69:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:70:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:71:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:72:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:73:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\de\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:74:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\es\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:75:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\fr\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:76:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\it\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:77:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ja\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:78:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ko\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:79:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\ru\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:80:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hans\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:81:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\zh-Hant\System.Spatial.resources.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:82:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\WebRole1.csprojResolveAssemblyReference.cache
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:83:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\WebRole1.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:84:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\obj\Debug\WebRole1.pdb
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:85:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Configuration.dll
+WebRole1\obj\Debug\WebRole1.csproj.FileListAbsolute.txt:86:c:\users\kevin\documents\visual studio 2015\Projects\PandahCompete\WebRole1\bin\Microsoft.WindowsAzure.Configuration.xml
+WebRole1\TableOperations\StorageException.cs:7:namespace WebRole1.TableOperations
+WebRole1\TableOperations\TableOperation.cs:9:namespace WebRole1.TableOperations
+WebRole1\TableOperations\UserOperations.cs:9:using WebRole1.Models;
+WebRole1\TableOperations\UserOperations.cs:12:namespace WebRole1.TableOperations
+WebRole1\WebRole.cs:7:using WebRole1.TableOperations;
+WebRole1\WebRole.cs:10:namespace WebRole1

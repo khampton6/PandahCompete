@@ -1,0 +1,7 @@
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\bin\Debug\PandahCompete.Controller.Tests.dll.config
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\bin\Debug\PandahCompete.Controller.Tests.dll
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\bin\Debug\PandahCompete.Controller.Tests.pdb
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\obj\Debug\PandahCompete.Controller.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\obj\Debug\PandahCompete.Controller.Tests.dll
+C:\Users\Kevin\documents\visual studio 2015\Projects\PandahCompete\PandahCompete.Controller.Tests\obj\Debug\PandahCompete.Controller.Tests.pdb

@@ -1,0 +1,2 @@
+PandahCompete.ccproj:41:    <Folder Include="WebRole1Content\" />
+PandahCompete.ccproj:44:    <DiagnosticsConfiguration Include="WebRole1Content\diagnostics.wadcfgx" />
